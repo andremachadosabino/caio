@@ -1,0 +1,12 @@
+h1{
+    color:rgb(0, 255, 247);
+    background-color:rgb(255, 0, 179);
+}
+body{
+    /*backgroud-image: url("giphy.gif");*/
+    background-color: rgb(255, 0, 221);
+    text-align: center;
+}
+img{
+    width: 400px;
+}
